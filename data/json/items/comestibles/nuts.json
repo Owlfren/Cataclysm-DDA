@@ -500,7 +500,7 @@
     "id": "acorn_roasted",
     "name": { "str_sp": "roasted acorns" },
     "copy-from": "acorns",
-    "description": "A handful of roasted acorns, almost entirely free of that bitter aftertaste.",
+    "description": "A handful of shelled and roasted acorns.  A smoked, earthy flavored treat.  There's hardly any bitterness left.",
     "price": 90,
     "price_postapoc": 200,
     "flags": [ "EATEN_HOT", "EDIBLE_FROZEN" ],
